@@ -5,7 +5,6 @@
 - [Features](#features)
 - [Contributors](#contributors)
 - [Company Logo](#company-logo)
-- [Badges](#badges)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -37,15 +36,6 @@ The **Offline Invoice Generation System** is a user-friendly, offline-capable ap
 
 ## 🏢 Company Logo
 ![Company Logo](./Assets/company-logo.png)
-
----
-
-## 🏆 Badges
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.com/parthpetkar/Invoice-Generator-using-Electron.js.svg?branch=main)](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js)
-[![GitHub issues](https://img.shields.io/github/issues/parthpetkar/Invoice-Generator-using-Electron.js)](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js/issues)
-[![GitHub stars](https://img.shields.io/github/stars/parthpetkar/Invoice-Generator-using-Electron.js)](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/parthpetkar/Invoice-Generator-using-Electron.js)](https://github.com/parthpetkar/Invoice-Generator-using-Electron.js/network)
 
 ---
 
