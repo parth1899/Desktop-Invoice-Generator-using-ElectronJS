@@ -122,8 +122,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔒 Security
 If you discover any security-related issues, please email **[parth.petkar221@vit.edu](mailto:parth.petkar221@vit.edu)** instead of using the issue tracker.
-
----
-
-🚀 Happy Coding!
-
