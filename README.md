@@ -31,7 +31,7 @@ The **Offline Invoice Generation System** is a user-friendly, offline-capable ap
 ## 👨‍💻 Contributors
 - [Parth Petkar](https://github.com/parthpetkar)
 - [Parth Kalani](https://github.com/parth1899)
-- 
+  
 ---
 
 ## 🏢 Company Logo
